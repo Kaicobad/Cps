@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\bin\Debug\PlusMinusRatio.exe.config
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\bin\Debug\PlusMinusRatio.exe
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\bin\Debug\PlusMinusRatio.pdb
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\obj\Debug\PlusMinusRatio.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\obj\Debug\PlusMinusRatio.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\obj\Debug\PlusMinusRatio.exe
+C:\Users\Shakil\source\repos\PlusMinusRatio\PlusMinusRatio\obj\Debug\PlusMinusRatio.pdb

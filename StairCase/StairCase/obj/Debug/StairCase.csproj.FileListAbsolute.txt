@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\StairCase\StairCase\bin\Debug\StairCase.exe.config
+C:\Users\Shakil\source\repos\StairCase\StairCase\bin\Debug\StairCase.exe
+C:\Users\Shakil\source\repos\StairCase\StairCase\bin\Debug\StairCase.pdb
+C:\Users\Shakil\source\repos\StairCase\StairCase\obj\Debug\StairCase.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\StairCase\StairCase\obj\Debug\StairCase.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\StairCase\StairCase\obj\Debug\StairCase.exe
+C:\Users\Shakil\source\repos\StairCase\StairCase\obj\Debug\StairCase.pdb

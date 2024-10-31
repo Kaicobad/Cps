@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\bin\Debug\AppleOrange.exe.config
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\bin\Debug\AppleOrange.exe
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\bin\Debug\AppleOrange.pdb
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\obj\Debug\AppleOrange.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\obj\Debug\AppleOrange.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\obj\Debug\AppleOrange.exe
+C:\Users\Shakil\source\repos\AppleOrange\AppleOrange\obj\Debug\AppleOrange.pdb

@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\bin\Debug\DiagonalDiffirence.exe.config
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\bin\Debug\DiagonalDiffirence.exe
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\bin\Debug\DiagonalDiffirence.pdb
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\obj\Debug\DiagonalDiffirence.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\obj\Debug\DiagonalDiffirence.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\obj\Debug\DiagonalDiffirence.exe
+C:\Users\Shakil\source\repos\DiagonalDiffirence\DiagonalDiffirence\obj\Debug\DiagonalDiffirence.pdb

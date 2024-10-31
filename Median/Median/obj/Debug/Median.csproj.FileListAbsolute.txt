@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\Median\Median\bin\Debug\Median.exe.config
+C:\Users\Shakil\source\repos\Median\Median\bin\Debug\Median.exe
+C:\Users\Shakil\source\repos\Median\Median\bin\Debug\Median.pdb
+C:\Users\Shakil\source\repos\Median\Median\obj\Debug\Median.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\Median\Median\obj\Debug\Median.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\Median\Median\obj\Debug\Median.exe
+C:\Users\Shakil\source\repos\Median\Median\obj\Debug\Median.pdb

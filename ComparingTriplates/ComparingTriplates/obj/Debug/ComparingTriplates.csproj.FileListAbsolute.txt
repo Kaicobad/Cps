@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\bin\Debug\ComparingTriplates.exe.config
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\bin\Debug\ComparingTriplates.exe
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\bin\Debug\ComparingTriplates.pdb
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\obj\Debug\ComparingTriplates.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\obj\Debug\ComparingTriplates.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\obj\Debug\ComparingTriplates.exe
+C:\Users\Shakil\source\repos\ComparingTriplates\ComparingTriplates\obj\Debug\ComparingTriplates.pdb

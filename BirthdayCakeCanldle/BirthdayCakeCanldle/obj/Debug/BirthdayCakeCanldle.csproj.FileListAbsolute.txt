@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\bin\Debug\BirthdayCakeCanldle.exe.config
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\bin\Debug\BirthdayCakeCanldle.exe
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\bin\Debug\BirthdayCakeCanldle.pdb
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\obj\Debug\BirthdayCakeCanldle.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\obj\Debug\BirthdayCakeCanldle.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\obj\Debug\BirthdayCakeCanldle.exe
+C:\Users\Shakil\source\repos\BirthdayCakeCanldle\BirthdayCakeCanldle\obj\Debug\BirthdayCakeCanldle.pdb

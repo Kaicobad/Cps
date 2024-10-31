@@ -1,0 +1,16 @@
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\SimplePrintExample.exe
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\SimplePrintExample.deps.json
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\SimplePrintExample.runtimeconfig.json
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\SimplePrintExample.runtimeconfig.dev.json
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\SimplePrintExample.dll
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\ref\SimplePrintExample.dll
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\bin\Debug\net5.0\SimplePrintExample.pdb
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.AssemblyInfoInputs.cache
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.AssemblyInfo.cs
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.dll
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\ref\SimplePrintExample.dll
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.pdb
+C:\Users\Shakil\source\repos\SimplePrintExample\SimplePrintExample\obj\Debug\net5.0\SimplePrintExample.genruntimeconfig.cache

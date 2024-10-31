@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\bin\Debug\MinMaxSum.exe.config
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\bin\Debug\MinMaxSum.exe
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\bin\Debug\MinMaxSum.pdb
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.exe
+C:\Users\Shakil\source\repos\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.pdb
