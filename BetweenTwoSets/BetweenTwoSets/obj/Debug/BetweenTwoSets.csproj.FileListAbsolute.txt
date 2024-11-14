@@ -1,0 +1,7 @@
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe.config
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\bin\Debug\BetweenTwoSets.pdb
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.csproj.AssemblyReference.cache
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.csproj.CoreCompileInputs.cache
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.exe
+D:\Kaicobad\CP\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.pdb

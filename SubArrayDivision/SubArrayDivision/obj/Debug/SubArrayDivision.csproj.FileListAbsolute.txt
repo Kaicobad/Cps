@@ -1,0 +1,7 @@
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\bin\Debug\SubArrayDivision.exe.config
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\bin\Debug\SubArrayDivision.exe
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\bin\Debug\SubArrayDivision.pdb
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\obj\Debug\SubArrayDivision.csproj.AssemblyReference.cache
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\obj\Debug\SubArrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\obj\Debug\SubArrayDivision.exe
+C:\Users\Shakil\source\repos\SubArrayDivision\SubArrayDivision\obj\Debug\SubArrayDivision.pdb
