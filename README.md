@@ -1,1 +1,1 @@
-Problem Soving Biginer HackerRank
+Problem Soving Biginner HackerRank
