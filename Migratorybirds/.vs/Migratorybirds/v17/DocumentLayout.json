@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shakil\\source\\repos\\Migratorybirds\\",
+  "WorkspaceRootPath": "D:\\Kaicobad\\CP\\Migratorybirds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20952373-2CD8-4706-A4E7-310E2CFC4060}|Migratorybirds\\Migratorybirds.csproj|c:\\users\\shakil\\source\\repos\\migratorybirds\\migratorybirds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20952373-2CD8-4706-A4E7-310E2CFC4060}|Migratorybirds\\Migratorybirds.csproj|d:\\kaicobad\\cp\\migratorybirds\\migratorybirds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20952373-2CD8-4706-A4E7-310E2CFC4060}|Migratorybirds\\Migratorybirds.csproj|solutionrelative:migratorybirds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shakil\\source\\repos\\Migratorybirds\\Migratorybirds\\Program.cs",
+              "DocumentMoniker": "D:\\Kaicobad\\CP\\Migratorybirds\\Migratorybirds\\Program.cs",
               "RelativeDocumentMoniker": "Migratorybirds\\Program.cs",
-              "ToolTip": "C:\\Users\\Shakil\\source\\repos\\Migratorybirds\\Migratorybirds\\Program.cs",
+              "ToolTip": "D:\\Kaicobad\\CP\\Migratorybirds\\Migratorybirds\\Program.cs",
               "RelativeToolTip": "Migratorybirds\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T08:09:34.696Z",
               "EditorCaption": ""

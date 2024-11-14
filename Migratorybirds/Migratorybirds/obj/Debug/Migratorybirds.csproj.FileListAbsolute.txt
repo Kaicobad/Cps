@@ -1,0 +1,7 @@
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\bin\Debug\Migratorybirds.exe.config
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\bin\Debug\Migratorybirds.exe
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\bin\Debug\Migratorybirds.pdb
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\obj\Debug\Migratorybirds.csproj.AssemblyReference.cache
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\obj\Debug\Migratorybirds.csproj.CoreCompileInputs.cache
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\obj\Debug\Migratorybirds.exe
+D:\Kaicobad\CP\Migratorybirds\Migratorybirds\obj\Debug\Migratorybirds.pdb
