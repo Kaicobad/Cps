@@ -23,25 +23,30 @@ namespace Migratorybirds
 
         private static int migratoryBirds(List<int> arr)
         {
-            int maxcount = 0;
-            int rem = 0;
-            for (int i = 0; i < arr.Count; i++)
+            int maxCount = 0;
+            int result = int.MaxValue;
+
+            Dictionary<int,int> birds = new Dictionary<int,int>();
+            foreach (int birdsIds in arr) 
             {
-                int count = 0;
-                for (int j = 0; j < arr.Count; j++)
+                if (birds.ContainsKey(birdsIds))
                 {
-                    if (arr[i] == arr[j])
-                    {
-                        count++;
-                    }
+                    birds[birdsIds]++;
                 }
-                if (count > maxcount)
+                else 
                 {
-                    maxcount = count;
-                    rem = arr[i];
+                    birds[birdsIds] = 1;
                 }
             }
-            return rem;
+            foreach (var item in birds)
+            {
+                if (item.Value > maxCount ||(item.Value == maxCount && item.Key < result))
+                {
+                    maxCount = item.Value;
+                    result = item.Key;
+                }
+            }
+            return result;
         }
     }
 }
